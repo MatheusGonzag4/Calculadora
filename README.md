@@ -27,7 +27,7 @@ O objetivo foi treinar lógica de programação, JavaScript básico e a separaç
 
 calculadora
 ├── index.html
-├── style.css
+├── styles.css
 ├── script.js
 └── README.md
 
